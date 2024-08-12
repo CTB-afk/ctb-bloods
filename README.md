@@ -14,13 +14,7 @@
 2. **Add the file to `[defaultmaps]`:**  
    - Place your custom map file or any other necessary files inside the `[defaultmaps]` folder in the **FiveM** resource path.
 ---
-## Contributing
 
-We welcome contributions! If you'd like to contribute, please follow our [contribution guidelines].
-
-## License
-
-This project is licensed under the [CTB].
 
 ## Contact
 
