@@ -2,7 +2,7 @@
 
 # ctb-bloods
 
-![Map](https://imgur.com/yBy3zaO)
+[Map](https://imgur.com/yBy3zaO)
 
 ## Description
 
