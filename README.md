@@ -10,7 +10,7 @@
 
 1. **Add `server.cfg`:**  
    - Add your **FiveM** server settings to the `server.cfg` file. Make sure this file includes all the necessary configurations for the server to run correctly, such as the server name, ports, and enabled resources.
-
+**`ensure ctb-bloods`**
 2. **Add the file to `[defaultmaps]`:**  
    - Place your custom map file or any other necessary files inside the `[defaultmaps]` folder in the **FiveM** resource path.
 ---
