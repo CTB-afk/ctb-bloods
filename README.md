@@ -2,7 +2,8 @@
 
 # ctb-bloods
 
-[Map](https://imgur.com/yBy3zaO)
+![Map](https://github.com/user-attachments/assets/f10f13bd-f49f-436c-882b-47f869575ab7)
+
 
 ## Description
 
