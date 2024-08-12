@@ -1,1 +1,1 @@
-[Map bloods](https://imgur.com/undefined)
+[Map bloods]((https://imgur.com/yBy3zaO))
