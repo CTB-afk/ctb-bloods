@@ -8,28 +8,16 @@
 
 This project, titled **ctb-bloods**, focuses on [describe your project's main goal]. The map above represents [describe the map and its significance to your project].
 
-## Installation
-
-To get started with the project, follow these steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/ctb-bloods.git
-
-# Navigate into the project directory
-cd ctb-bloods
-
-# Install dependencies
-npm install
-
-# Start the project
-npm start
-```
+---
 
 ## Usage
 
-[Explain how to use your project. Include examples and screenshots if applicable.]
+1. **Add `server.cfg`:**  
+   - Add your **FiveM** server settings to the `server.cfg` file. Make sure this file includes all the necessary configurations for the server to run correctly, such as the server name, ports, and enabled resources.
 
+2. **Add the file to `[defaultmaps]`:**  
+   - Place your custom map file or any other necessary files inside the `[defaultmaps]` folder in the **FiveM** resource path.
+---
 ## Contributing
 
 We welcome contributions! If you'd like to contribute, please follow our [contribution guidelines].
@@ -40,6 +28,6 @@ This project is licensed under the [CTB].
 
 ## Contact
 
-For more information, feel free to contact us at [Your Contact Information](https://discord.gg/Ww467DSTAm).
+For more information, feel free to contact us at [Discord](https://discord.gg/Ww467DSTAm).
 
 ---
