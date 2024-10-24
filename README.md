@@ -15,9 +15,3 @@
    - Place your custom map file or any other necessary files inside the `[defaultmaps]` folder in the **FiveM** resource path.
 ---
 
-
-## Contact
-
-For more information, feel free to contact us at [Discord](https://discord.gg/Ww467DSTAm).
-
----
